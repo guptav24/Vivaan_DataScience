@@ -10,7 +10,7 @@ age = 28
 smoker = 0
 sex = 0
 bmi = 26.2
-num_of_children = 3
+num_of_children = 5
 
 #Equation for insurance cost
 insurance_cost = 250*age - 128*sex + 370*bmi + 425*num_of_children + 24000*smoker - 12500
